@@ -1,0 +1,6 @@
+termcolor
+pandas
+exchangelib
+titlecase
+xlrd
+openpyxl
