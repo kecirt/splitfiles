@@ -1,0 +1,11 @@
+#folders to be ignored
+__pycache__
+*_files/
+
+#files to be ignored
+*.csv
+*.xlsx
+._splitfiles.py
+
+#ignore zips 
+*.zip

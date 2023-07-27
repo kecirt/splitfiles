@@ -1,0 +1,6 @@
+#install pip
+Download get-pip.py link-https://bootstrap.pypa.io/get-pip.py
+cmd---py get-pip.py
+
+#install requirements
+cmd---pip install -r requirements.txt
